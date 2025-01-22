@@ -26,7 +26,7 @@ This script performs the following analyses:
 ## How to use
 1. Download or clone this repository.
 2. Prepare a dataset (`data.csv`) with the format described in the script.
-3. Open the script (`pain_analysis.R`) in RStudio.
+3. Open the script (`main_analysis.R`) in RStudio.
 4. Install the required R packages (see above).
 5. Run the script to replicate the analyses.
 
