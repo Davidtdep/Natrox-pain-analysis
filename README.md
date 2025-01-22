@@ -24,11 +24,7 @@ This script performs the following analyses:
 - **Visualization**: Sankey plots illustrating pain transitions before and after treatment.
 
 ## How to use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Natrox-pain-analysis.git
-   cd Natrox-pain-analysis
-   ```
+1. Download or clone this repository.
 2. Prepare a dataset (`data.csv`) with the format described in the script.
 3. Open the script (`pain_analysis.R`) in RStudio.
 4. Install the required R packages (see above).
